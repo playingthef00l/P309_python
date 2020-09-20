@@ -1,4 +1,4 @@
-# P309_python
+# P309 - Oil Drop Lab Python scripts
 IDEA:
 Find average rising/falling velocities for each drop
 plug them into eqn 9 on labsheet
